@@ -1,3 +1,3 @@
 token: '7285240532:AAFRnrMIMvnGvt2-tlcPCJQ2i3RGIaWEMzE'
 owner: 6740744127
-mongo: 'mongodb+srv://exp:exp@cluster0.kr93qbe.mongodb.net/?retryWrites=true&w=majority'
+mongo: '"mongodb+srv://HaremDBBot:ThisIsPasswordForHaremDB@haremdb.swzjngj.mongodb.net/?retryWrites=true&w=majority"
